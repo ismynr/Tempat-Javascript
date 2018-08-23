@@ -1,0 +1,46 @@
+{
+  "short_name": "Nizwar ID",
+  "name": "Mochamad Nizwar Syafuan",
+  "icons": [
+    {
+      "src": "https://3.bp.blogspot.com/-j0jz0-8N01w/W3svL4_oIiI/AAAAAAAAAE4/bUVznUCxtNIzYSRfs9pEXpJ1NQVFpL1XwCEwYBhgL/s48/nizwar_id.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-j0jz0-8N01w/W3svL4_oIiI/AAAAAAAAAE4/bUVznUCxtNIzYSRfs9pEXpJ1NQVFpL1XwCEwYBhgL/s96/nizwar_id.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-j0jz0-8N01w/W3svL4_oIiI/AAAAAAAAAE4/bUVznUCxtNIzYSRfs9pEXpJ1NQVFpL1XwCEwYBhgL/s192/nizwar_id.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-j0jz0-8N01w/W3svL4_oIiI/AAAAAAAAAE4/bUVznUCxtNIzYSRfs9pEXpJ1NQVFpL1XwCEwYBhgL/s128/nizwar_id.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-j0jz0-8N01w/W3svL4_oIiI/AAAAAAAAAE4/bUVznUCxtNIzYSRfs9pEXpJ1NQVFpL1XwCEwYBhgL/s152/nizwar_id.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-j0jz0-8N01w/W3svL4_oIiI/AAAAAAAAAE4/bUVznUCxtNIzYSRfs9pEXpJ1NQVFpL1XwCEwYBhgL/s144/nizwar_id.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-j0jz0-8N01w/W3svL4_oIiI/AAAAAAAAAE4/bUVznUCxtNIzYSRfs9pEXpJ1NQVFpL1XwCEwYBhgL/s512/nizwar_id.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#e74c3c",
+  "display":"standalone",
+  "orientation":"portrait",
+  "theme_color":"#e74c3c",
+  "start_url": "/"
+}
